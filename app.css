@@ -1,0 +1,22 @@
+.container{
+	margin:200px auto;
+	width: 400px;
+	text-align: center;
+	padding: 20px auto;
+	line-height: 50px;
+	border: 1px solid gray;
+	background: rgb(150, 150, 222);
+}
+
+#calc-parent{
+	text-align: right;
+	font-size: 48px;
+}
+
+button{
+	background-color: lightblue;
+}
+
+
+
+
